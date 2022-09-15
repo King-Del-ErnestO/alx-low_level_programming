@@ -7,5 +7,8 @@
  */
 int _isupper(int c)
 {
+	int main(){
+		
 	return (c >= 'A' && c <= 'Z');
+	}
 }
